@@ -20,6 +20,7 @@ export default (opt_options) => {
       '.html': 'copy',
       '.woff': 'file',
       '.woff2': 'file',
+      '.ttf': 'file',
       '.3mf': 'copy',
     },
     plugins: [
